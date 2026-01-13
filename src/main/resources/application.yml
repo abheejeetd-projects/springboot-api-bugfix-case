@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: springboot-api-bugfix-case
+
+logging:
+  level:
+    org.springframework.web: INFO
